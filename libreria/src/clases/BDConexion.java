@@ -1,5 +1,5 @@
 // Source code is decompiled from a .class file using FernFlower decompiler (from Intellij IDEA).
-package clases;
+package modelos;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
